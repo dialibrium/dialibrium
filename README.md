@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello 🙋🏻‍♀️
 
 <!--
 **dialibrium/dialibrium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me..
+### My name is Mariah, I am currently a student at the University of Texas Rio Grande Valley. I am majoring in Computer Science and will graduate in 2029. I love listening to music, playing Guitar Hero, and baking. 
