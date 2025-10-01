@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ## About me..
 ### My name is Mariah, I am currently a student at the University of Texas Rio Grande Valley. I am majoring in Computer Science and will graduate in 2029. I love listening to music, playing Guitar Hero, and baking. 
+
+## Contact Info
+## [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/mar-delapena)
